@@ -1,0 +1,56 @@
+body {
+    background-color: #b5592a;
+}
+
+#zona-encabezado {
+    width: 75%;
+    background-color: #d9b650;
+}
+
+h1 {
+    font-family: 'Lucida Bright', Courier, monospace;
+    font-size: 32pt;
+    color: #402a23;
+}
+
+.texto-encabezado {
+    font-family: Georgia, Verdana, sans-serif, Tahoma;
+    font-size: 12pt;
+    color: #000000;
+}
+
+#zona-imagenes {
+    width: 75%;
+    background-color: #f5dd7b;
+    text-align: center;
+}
+
+img {
+    width: 30%;
+}
+
+#zona-cuerpo {
+    width: 75%;
+    color: #000000;
+    background-color: #d9b650;
+}
+
+.texto-cuerpo {
+    font-family: Georgia, Verdana, Tahoma;
+    font-size: 12pt;
+    color: #000000;
+}
+
+#zona-final {
+    width: 75%;
+    color: #402a23;
+    background-color: #f5dd7b;
+    font-size: 12pt;
+}
+
+.texto-final {
+    font-family: Georgia, Verdana, Tahoma;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #402a23;
+}

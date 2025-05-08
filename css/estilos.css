@@ -1,0 +1,146 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+    background-color: #f48db4;
+}
+
+.hblog {
+    font-size: 2.5em;
+}
+
+#menu-contenedor {
+    background-color: #b4a9f3;
+    padding: 15px;
+    margin: 20px auto;
+    width: 95vw;
+    border: 2px solid #d5eeff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+}
+
+#contenedor {
+    width: 95vw;
+    max-width: none;
+    margin: 40px auto;
+    padding: 40px 30px;
+    background-color: #9896f1;
+    border: 2px solid #d5eeff;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+}
+
+
+.navbar {
+    background-color: #f49ac1 !important;
+    border: 2px solid white !important;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    font-size: 0.95rem;
+}
+
+#menu {
+    color: #774181;
+    background-color: #f29cb3;
+    text-align: center;
+}
+
+#menu a,
+#menu a:visited {
+    color: #774181;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#menu a:hover {
+    color: white;
+    background-color: #774181;
+    padding: 5px;
+}
+
+#contenido {
+    height: 300px;
+    margin-top: 2rem;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.blog {
+    height: 250px;
+    border: 1px solid #d5eeff;
+    float: right;
+}
+
+#final {
+    font-family: Georgia, 'Courier New', Courier, monospace;
+    font-size: 0.75em;
+    color: #891180;
+    background-color: #d5eeff;
+    padding: 10px;
+}
+
+#zona-encabezado {
+    width: 100%;
+    background-color: #dcb5ff;
+    margin-top: 0px;
+}
+
+.abs {
+    font-family: 'Lucida Bright', Courier, monospace;
+    font-size: 32pt;
+    color: #352961;
+}
+
+.dazi {
+    font-family: 'Lucida Bright', Courier, monospace;
+    color: #572961;
+}
+
+
+.texto-encabezado {
+    font-family: Georgia, Verdana, sans-serif, Tahoma;
+    font-size: 12pt;
+    color: #352961;
+}
+
+#zona-cuerpo {
+    width: 100%;
+    margin-top: 1.2rem;
+    color: #352961;
+    background-color: #dcb5ff;
+}
+
+.texto-cuerpo {
+    font-family: Georgia, Verdana, Tahoma;
+    font-size: 12pt;
+    color: #1d0228;
+}
+
+#zona-imagenes {
+    width: 100%;
+    background-color: #dcb5ff;
+    text-align: center;
+}
+
+.imga {
+    width: 30%;
+}
+
+#zona-final {
+    width: 100%;
+    color: #352961;
+    background-color: #dcb5ff;
+    font-size: 12pt;
+}
+
+.texto-final {
+    font-family: Georgia, Verdana, Tahoma;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #352961;
+}
